@@ -89,17 +89,27 @@
     {
       "name": "Freelancer Full Stack Developer",
       "period": "2021 - Current",
-      "description": "Passionate by chalanges. Doing projects by myself."
+      "description": "Passionate by challanges. Doing projects by myself."
     },
     {
       "name": "CEO / NiWa Gastronomia Japonesa",
       "period": "2019 - 2020",
-      "description": "My first own business. Learning and teaching skills. Liderando minha equipe e aprendendo a empreender."
+      "description": "My first own business. Learning and teaching. Leading my team and solving problems."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Seller / Top Troféus",
+      "period": "2014 - 2018",
+      "description": "Incredible years alongside wonderful people helping many companies."
+    },
+    {
+      "name": "System Developer / TALQ Fábrica Criativa",
+      "period": "2013 - 2014",
+      "description": "Incredible years alongside wonderful people helping many companies."
+    },
+    {
+      "name": "System Analyst / Ad Infinitum Consultoria Organizacional",
+      "period": "2014 - 2018",
+      "description": "Incredible years alongside wonderful people helping many companies."
     }
   ]
 }
