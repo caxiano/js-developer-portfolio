@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Cassiano S Nishikawa",
+  "photo": "https://avatars.githubusercontent.com/u/181252983",
+  "job": "Freelancer Full Stack Developer",
+  "location": "Brasilia - Brazil",
+  "phone": "+55(61)9999-9999",
+  "email": "csnishikawa@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -33,18 +33,17 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+        "Problem Solving",
+        "Leadership",
+        "Teamwork",
+        "Organization",
+        "Adaptability"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "English (Advanced)",
+    "Japanese (Begginer)"
   ],
   "portfolio": [
     {
