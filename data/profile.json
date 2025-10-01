@@ -9,47 +9,47 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://github.com/caxiano/js-developer-portfolio/data/imgs/python.png"
+        "logo": "data/imgs/python.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/caxiano/js-developer-portfolio/data/imgs/javascript.png"
+        "logo": "data/imgs/javascript.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/caxiano/js-developer-portfolio/data/imgs/html.png"
+        "logo": "data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/caxiano/js-developer-portfolio/data/imgs/css.png"
+        "logo": "data/imgs/css.png"
       },
       {
         "name": "Nodejs",
-        "logo": "https://github.com/caxiano/js-developer-portfolio/data/imgs/nodejs.png"
+        "logo": "data/imgs/nodejs.png"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/caxiano/js-developer-portfoliodata/imgs/java.png"
+        "logo": "data/imgs/java.png"
       },
       {
         "name": "PHP",
-        "logo": "https://github.com/caxiano/js-developer-portfoliodata/imgs/php.png"
+        "logo": "data/imgs/php.png"
       },
       {
         "name": "React",
-        "logo": "https://github.com/caxiano/js-developer-portfoliodata/imgs/react.png"
+        "logo": "data/imgs/react.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://github.com/caxiano/js-developer-portfolio/data/imgs/mysql.png"
+        "logo": "data/imgs/mysql.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://github.com/caxiano/js-developer-portfoliodata/imgs/mongodb.png"
+        "logo": "data/imgs/mongodb.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://github.com/caxiano/js-developer-portfoliodata/imgs/postgresql.png"
+        "logo": "data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
