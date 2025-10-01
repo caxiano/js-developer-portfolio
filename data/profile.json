@@ -13,7 +13,7 @@
       },
       {
         "name": "JavaScript",
-        "logo": "data/imgs/javascript.png"
+        "logo": "data/imgs/js.png"
       },
       {
         "name": "HTML",
@@ -41,7 +41,7 @@
       },
       {
         "name": "MySQL",
-        "logo": "data/imgs/mysql.png"
+        "logo": "data/imgs/mysql-white.png"
       },
       {
         "name": "Mongodb",
@@ -50,6 +50,14 @@
       {
         "name": "Postgresql",
         "logo": "data/imgs/postgresql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "data/imgs/github.png"
       }
     ],
     "softSkills": [
@@ -64,29 +72,29 @@
     "Portuguese (Native)",
     "English (Advanced)",
     "Japanese (Begginer)"
-  ],
+  ],  
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/caxiano/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/caxiano/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Freelancer Full Stack Developer",
+      "period": "2021 - Current",
+      "description": "Passionate by chalanges. Doing projects by myself."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "CEO / NiWa Gastronomia Japonesa",
+      "period": "2019 - 2020",
+      "description": "My first own business. Learning and teaching skills. Liderando minha equipe e aprendendo a empreender."
     },
     {
       "name": "CEO / Brain Machine",
